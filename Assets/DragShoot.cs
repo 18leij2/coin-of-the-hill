@@ -1,12 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/*
+Test
+*/
 public class DragShoot : MonoBehaviour
 {
     public float power = 10f;
     public Rigidbody2D rb;
-
+   
     public GameObject oneCoin;
     public GameObject twoCoin;
 
